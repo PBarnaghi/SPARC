@@ -9,7 +9,8 @@ Feel free to create additional folders in this repository but please use the exi
 * `results` - Final results, including presented slides and other content, should be uploaded to this folder.
 
 
-##Team members and contributors: Samaneh Kouchaki, Yu Chen, Ramin Nilforooshan, Payam Barnaghi.
+## Team members and contributors: 
+Samaneh Kouchaki, Yu Chen, Ramin Nilforooshan, Payam Barnaghi.
 
 # LICENCE
 
