@@ -8,7 +8,8 @@ Feel free to create additional folders in this repository but please use the exi
 * `code` - All code used as part of your solution should be uploaded this folder and is expected to be reproducible.
 * `results` - Final results, including presented slides and other content, should be uploaded to this folder.
 
-Team members and contributors: Samaneh Kouchaki, Yu Chen, Ramin Nilforooshan, Payam Barnaghi.
+
+<b>Team members and contributors</b>: Samaneh Kouchaki, Yu Chen, Ramin Nilforooshan, Payam Barnaghi.
 
 # LICENCE
 
