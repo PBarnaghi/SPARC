@@ -13,7 +13,8 @@ Feel free to create additional folders in this repository but please use the exi
 ### Team members and contributors: 
 Samaneh Kouchaki, Yu Chen, Ramin Nilforooshan, Payam Barnaghi.
 
-
+### update
+This is an early stage and preliminary work to address the challenges of participant retention in long-term mental health clinical trials by providing researchers with estimation and guidance. The system will enable  communication between researchers and participants, and empower participants with information and resources to stay engaged in the trials. At this stage, we have laid the foundation for our final solution. We divided our solution into three platforms; researcher support platform, joint research platform, and participant platform.
 
 # LICENCE
 
